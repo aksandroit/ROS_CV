@@ -1,0 +1,8 @@
+prefix=/home/alphaics/catkin_ws/install
+
+Name: image_transport_ws
+Description: Description of image_transport_ws
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

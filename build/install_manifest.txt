@@ -1,0 +1,9 @@
+/home/alphaics/catkin_ws/install/_setup_util.py
+/home/alphaics/catkin_ws/install/env.sh
+/home/alphaics/catkin_ws/install/setup.bash
+/home/alphaics/catkin_ws/install/local_setup.bash
+/home/alphaics/catkin_ws/install/setup.sh
+/home/alphaics/catkin_ws/install/local_setup.sh
+/home/alphaics/catkin_ws/install/setup.zsh
+/home/alphaics/catkin_ws/install/local_setup.zsh
+/home/alphaics/catkin_ws/install/.rosinstall

@@ -1,0 +1,2 @@
+beginner_tutorials
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/alphaics/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/alphaics/catkin_ws/install_isolated

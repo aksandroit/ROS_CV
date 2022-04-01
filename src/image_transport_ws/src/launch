@@ -1,0 +1,5 @@
+<launch>
+
+<node name= "webcam" pkg= 'image_transport_ws' type='image_imshow.py" output="screen" respawn ="true"/>
+
+</launch>

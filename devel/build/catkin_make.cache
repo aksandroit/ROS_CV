@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/alphaics/catkin_ws/devel/devel -DCMAKE_INSTALL_PREFIX=/home/alphaics/catkin_ws/devel/install -G Unix Makefiles

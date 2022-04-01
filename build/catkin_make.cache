@@ -1,0 +1,2 @@
+beginner_tutorials:image_transport_ws
+-DCATKIN_DEVEL_PREFIX=/home/alphaics/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alphaics/catkin_ws/install -G Unix Makefiles

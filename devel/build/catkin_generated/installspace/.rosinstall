@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/alphaics/catkin_ws/devel/install/setup.sh
